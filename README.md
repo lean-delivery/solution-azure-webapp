@@ -1,9 +1,10 @@
 # solution-azure-webapp
 Bootstrap azure web application
 
-- what for this solution
-- deployment view
-- limitations
+* what for this solution
+* deployment view
+* limitations
+  - snat limitations and self-managed vnet + nat [devblogs](https://devblogs.microsoft.com/premier-developer/reducing-snat-port-consumption-in-azure-app-services/) [docs](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-intermittent-outbound-connection-errors)
 
 # Init basic infra
 
